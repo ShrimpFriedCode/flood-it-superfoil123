@@ -19,7 +19,7 @@ Your Task
 
 We have written most of the game but we need your help in finishing
 it. We would like you to write the `flood` function in the
-`Flood` class. The `flood` function takes three parameters:
+`Flood` class. The `flood` function takes four parameters:
 
 * `color` - an instance of the `WaterColor` enum.
 
